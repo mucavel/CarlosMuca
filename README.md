@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosMuca
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, PHP, HTML, CSS, JS, MySQL
+- 🌱 I’m currently learning Java, PHP, HTML, CSS, JavaScript, MySQL
 - 📫 How to reach me: salvadormuca7@gmail.com
 
 <!---
