@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CarlosMuca
+- 👋 Hi, I’m @Salvador Mucavel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, PHP, HTML, CSS, JavaScript, MySQL
+- 🌱 I’m currently learning Java, PHP( with Laravel Framework), HTML, CSS, JavaScript( with React), MySQL
 - 📫 How to reach me: salvadormuca7@gmail.com
 
-<!---
-CarlosMuca/CarlosMuca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
